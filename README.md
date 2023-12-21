@@ -16,7 +16,7 @@ The objectives are the things we want to learn with this project:
       1. "persisting" the changes (`commit`)
    1. Add a new file and ...
    1. "Send" the changes to the origin (`push`)
-   1. "Check" if something has changed in the origin (`fetch`)
+   1. "Check" if something has changed in the origin (`fetch`).
 
 ## Installation
 
@@ -35,4 +35,4 @@ Another method is to download the installer [here](https://git-scm.com/download/
 
 The official build is available for download on the [Git website](https://git-scm.com/download/win). The download will start automatically. Git for Windows is different from `git` itself; if you want more information on it, vistit https://gitforwindows.org.
 
-Additional info on how to install `git` can be found in the [official documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+Additional info on how to install `git` can be found in the [official documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)...
